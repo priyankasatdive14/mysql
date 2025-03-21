@@ -53,9 +53,6 @@ bookstore-api/
 Go 1.22.2
 MySQL
 Steps
-## Clone the repository:
-#  git clone https://github.com/amar/go-bookstore.git
-cd go-bookstore
 ## Install dependencies:
 go mod tidy
 ##  Update database credentials in pkg/config/app.go:
